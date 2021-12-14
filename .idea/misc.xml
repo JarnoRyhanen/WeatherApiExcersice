@@ -3,7 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/s1800885/Documents/WeatherApiExcersice1/app/src/main/res/layout/activity_main.xml" value="0.19022289766970618" />
+        <entry key="..\:/Users/s1800885/Documents/WeatherApiExcersice1/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/s1800885/Documents/WeatherApiExcersice1/app/src/main/res/layout/recycler_view_list_row.xml" value="0.152" />
       </map>
     </option>
   </component>
